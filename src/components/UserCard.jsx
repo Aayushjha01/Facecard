@@ -32,14 +32,16 @@ const UserCard = () => {
           <AiFillLike className="bg-blue-500 p-1 text-4xl text-white rounded-full" />
           <span className="text-1xl">60k</span>
           </div>
-          </div>
-          <div className="flex gap-3">
-          <div className="flex items-center gap-1">
+           <div className="flex items-center gap-1">
 
           <AiFillLike className="bg-blue-500 p-1 text-4xl text-white rounded-full" />
           <span className="text-1xl">60k</span>
           </div>
-          
+           <div className="flex items-center gap-1">
+
+          <AiFillLike className="bg-blue-500 p-1 text-4xl text-white rounded-full" />
+          <span className="text-1xl">60k</span>
+          </div>
           </div>
           
       </div>
